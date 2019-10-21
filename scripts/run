@@ -1,0 +1,2 @@
+filename=`date "+%Y-%m-%d_%H:%M:%S"`
+./scripts/_publish > ./logs/${filename}.log
