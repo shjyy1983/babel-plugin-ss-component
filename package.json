@@ -1,5 +1,5 @@
 {
-  "name": "ss-babel-plugin-component",
+  "name": "babel-plugin-ss-component",
   "version": "0.0.5",
   "description": "按需加载插件 for ss_vue_ui.",
   "main": "lib/index.js",
@@ -34,10 +34,10 @@
     "mocha": "4.0.1",
     "pre-commit": "~1.1.2"
   },
-  "repository": "https://github.com/shjyy1983/ss-babel-plugin-component",
-  "homepage": "https://github.com/shjyy1983/ss-babel-plugin-component#readme",
+  "repository": "https://github.com/shjyy1983/babel-plugin-ss-component",
+  "homepage": "https://github.com/shjyy1983/babel-plugin-ss-component#readme",
   "bugs": {
-    "url": "https://github.com/shjyy1983/ss-babel-plugin-component/issues"
+    "url": "https://github.com/shjyy1983/babel-plugin-ss-component/issues"
   },
   "babel": {
     "presets": [
