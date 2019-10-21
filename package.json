@@ -1,6 +1,6 @@
 {
   "name": "ss-babel-plugin-component",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "按需加载插件 for ss_vue_ui.",
   "main": "lib/index.js",
   "scripts": {
