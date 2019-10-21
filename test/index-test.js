@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import { transformFileSync } from '@babel/core';
 import { join } from 'path';
 import { readdirSync, readFileSync } from 'fs';
@@ -21,7 +22,6 @@ describe('index', () => {
     let expected = readFileSync(expectedFile, 'utf-8');
 
     it(`should work with ${caseName.split('-').join(' ')}`, () => {
-
       let cssPlugin;
       if (caseName === 'import-css') {
         cssPlugin = [plugin, {

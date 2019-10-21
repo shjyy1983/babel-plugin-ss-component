@@ -1,1 +1,1 @@
-module.exports = require('./core')('element-ui');
+module.exports = require('./core')('ss_vue_ui');

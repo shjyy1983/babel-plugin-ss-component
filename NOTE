@@ -1,3 +1,11 @@
+
+[发布]
+在根目录下执行：
+./scripts/run
+
 [参考]
 vue+element-ui使用babel-plugin-component按需加载组件及自定义主题对应的scss样式
 https://juejin.im/post/5b35c49bf265da598f156446
+
+[性能优化] 7个DEMO教你写Babel Import按需加载
+https://juejin.im/post/5cec92bef265da1b7b3169ff
